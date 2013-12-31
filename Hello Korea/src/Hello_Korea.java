@@ -6,7 +6,7 @@ public class Hello_Korea {
 	}
 	public static void Print(){
 		System.out.println("Using Print Method");
-		System.out.println("Hello Korea");
+		System.out.println("Hello Korea2");
 	}
 	
 }
