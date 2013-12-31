@@ -6,5 +6,5 @@ public class Hello_World {
 	public static void Print(){
 		System.out.println("Using Print Method");
 	}
-
+	
 }
